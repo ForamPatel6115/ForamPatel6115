@@ -1,12 +1,12 @@
 # Hi there, I'm foram Patel 👋
  
-### 🤖 AI Enthusiast | 📊 Business Analyst | 🚀 Trainee Project Coordinator
+🐍 Python Developer | 🤖 AI/ML Enthusiast 
  
 Welcome to my GitHub profile!
  
-I'm a Bachelor of Computer Applications (BCA) graduate interested in Artificial Intelligence, software development, business analysis, and emerging technologies.
+I'm a Bachelor of Engineering (BE) graduate interested in Artificial Intelligence, python development, technologies.
  
-I enjoy exploring AI-driven content creation, software testing, frontend development, and project coordination.
+I enjoy exploring AI-driven content creation, frontend development, and project coordination.
  
 I'm passionate about continuous learning and developing my technical and professional skills.
  
@@ -14,19 +14,9 @@ I'm passionate about continuous learning and developing my technical and profess
  
 ## 🙋‍♂️ About Me
  
-- 🎓 BCA running in Narshi Mehta University.
+- 🎓 Be completed in om eng college.
 
 - 🤖 Interested in Artificial Intelligence and AI-driven technologies.
-
-- 💼 Former Trainee Project Coordinator cum Business Analyst at Site4People.com.
-
-- 🌐 Gaining experience in HTML and frontend development.
-
-- 🧪 Experienced in software testing and feature validation.
-
-- 🎬 Interested in AI-driven video content creation and educational resources.
-
-- 📊 Familiar with project coordination, business analysis, and documentation.
 
 - 🤝 Enjoy working with cross-functional teams and solving problems.
  
@@ -44,10 +34,6 @@ I'm passionate about continuous learning and developing my technical and profess
 
 - Artificial Intelligence Tools
 
-- Business Analysis
-
-- Project Coordination
-
 - Documentation
  
 ---
@@ -62,8 +48,6 @@ I'm passionate about continuous learning and developing my technical and profess
 
 - AI Content Creation
 
-- Business Analysis
-
 - Project Management
  
 ---
@@ -76,7 +60,7 @@ I'm passionate about continuous learning and developing my technical and profess
  
 ## 🤝 Connect With Me
  
-- GitHub: [@ManavPatel7892](https://github.com/ManavPatel7892)
+- GitHub: [ForamPatel6115(https://github.com/ForamPatel6115)]
  
 ---
  
